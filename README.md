@@ -7,16 +7,10 @@ A production-ready stack template featuring:
 
 ## Quick Start
 
-Create a new project anywhere without cloning:
+Currently my npm isnt working so clone and go to folder and use:
 
 ```bash
-npx create-stack-init
-```
-
-Or install globally:
-
-```bash
-npm install -g create-stack-init
+npm link create-stack-init
 create-stack-init
 ```
 

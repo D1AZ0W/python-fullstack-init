@@ -1,0 +1,12 @@
+{
+  "skillOverrides": {
+    "higgsfield-brandkit": "off",
+    "higgsfield-generate": "off",
+    "higgsfield-marketplace-cards": "off",
+    "higgsfield-product-photoshoot": "off",
+    "higgsfield-soul-id": "off",
+    "higgsfield-video-explainer": "off",
+    "higgsfield-websites": "off",
+    "higgsfield-youtube-thumbnail": "off"
+  }
+}

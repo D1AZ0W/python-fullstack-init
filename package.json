@@ -4,19 +4,19 @@
   "description": "Interactive CLI for scaffolding TanStack/Django full-stack projects",
   "type": "module",
   "bin": {
-    "create-stack-init": "./bin/cli.js"
+    "create-stack-init": "bin/cli.js"
   },
   "files": [
     "bin"
   ],
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/diazo/stack-init.git"
-  },
-  "homepage": "https://github.com/diazo/stack-init#readme",
-  "bugs": {
-    "url": "https://github.com/diazo/stack-init/issues"
-  },
+     "type": "git",
+     "url": "git+https://github.com/D1AZ0W/python-fullstack-init.git"
+   },
+   "homepage": "https://github.com/D1AZ0W/python-fullstack-init#readme",
+   "bugs": {
+     "url": "https://github.com/D1AZ0W/python-fullstack-init/issues"
+   },
   "dependencies": {
     "chalk": "^5.3.0",
     "inquirer": "^9.2.12",
